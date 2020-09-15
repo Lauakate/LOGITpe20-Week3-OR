@@ -1,0 +1,13 @@
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\bin\Debug\netcoreapp3.1\TestFeedback.exe
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\bin\Debug\netcoreapp3.1\TestFeedback.deps.json
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\bin\Debug\netcoreapp3.1\TestFeedback.runtimeconfig.json
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\bin\Debug\netcoreapp3.1\TestFeedback.runtimeconfig.dev.json
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\bin\Debug\netcoreapp3.1\TestFeedback.dll
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\bin\Debug\netcoreapp3.1\TestFeedback.pdb
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\obj\Debug\netcoreapp3.1\TestFeedback.csprojAssemblyReference.cache
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\obj\Debug\netcoreapp3.1\TestFeedback.AssemblyInfoInputs.cache
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\obj\Debug\netcoreapp3.1\TestFeedback.AssemblyInfo.cs
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\obj\Debug\netcoreapp3.1\TestFeedback.csproj.CoreCompileInputs.cache
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\obj\Debug\netcoreapp3.1\TestFeedback.dll
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\obj\Debug\netcoreapp3.1\TestFeedback.pdb
+C:\Users\opilane\source\repos\Week3LogicalOperatorsOR\TestFeedback\obj\Debug\netcoreapp3.1\TestFeedback.genruntimeconfig.cache
